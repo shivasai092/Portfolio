@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivasai092.github.io/Shivasai/sitemap.xml
